@@ -1,7 +1,7 @@
 {
     "this-repository": "https://github.com/ZhouLi050399/Project-Artifact.git",
     "project-repository": "https://github.com/yunlintang/DSC180B-Project.git",
-    "dockerhub-repository": "https://hub.docker.com/repository/docker/yunlintang/dsc180bproject",
+    "dockerhub-repository": "yunlintang/dsc180bproject:latest",
     "project-website-url": "https://yunlintang.github.io/DSC180B-Blog/",
     "project-website-code": "https://github.com/yunlintang/DSC180B-Blog.git"
 }
